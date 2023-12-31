@@ -1,0 +1,11 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.banner{
+  background-image: url(pngtree-chinese-style-seafood-food-and-beverage-picture-image_1029939.jpg);
+  background-size: cover;
+  paddding: 220px;
+}
+.skills padding {
+  padding: 70px;
+}
